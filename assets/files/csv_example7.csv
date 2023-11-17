@@ -1,0 +1,4 @@
+id,name,email,gender,image,birth_date,hire_date,shift_id,security_answer
+1,Yogesh singh,yssyogesh@makitweb.com,male,default.png,2002-12-03,12-03-2002,3,narayana guru matriculation school
+2,Sonarika Bhadoria ,bsonarika@gmail.com,female,default.png,01-12-2000,30-09-2002,4,kumari  matriculation school
+3,Vishal sahu,vishal@yahoo.com,male,default.png,10-02-2001,20-10-2002,7,alphonsa higer secondary school

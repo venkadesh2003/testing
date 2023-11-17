@@ -1,0 +1,4 @@
+id,name,email,gender,image,birth_date,hire_date,shift_id,security_answer
+1,venkat m,venkat12@gmail.com,male,default.png2002-01-122002-04-123,12-02-2001,12-03-2002,3,narayana guru matriculation school
+2,clarke,clarke12@gmail.com,male,default.png2002-01-122002-04-123,10-06-2000,30-09-2002,4,kumari  matriculation school
+3,johnson,johnson12@gmail.com,male,default.png2002-01-122002-04-123,10-02-2001,20-10-2002,7,alphonsa higer secondary school
