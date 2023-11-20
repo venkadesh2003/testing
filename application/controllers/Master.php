@@ -15,6 +15,7 @@ class Master extends CI_Controller
   {
     // Department Data
     $d['title'] = 'Department';
+    
     $d['department'] = $this->db->get('department')->result_array();
     $d['account'] = $this->Admin_model->getAdmin($this->session->userdata['username']);
 

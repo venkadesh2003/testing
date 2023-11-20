@@ -38,6 +38,7 @@ class Admin extends CI_Controller
     $this->load->view('templates/topbar');
     $this->load->view('admin/index', $d); // Dashboard Page
     $this->load->view('templates/dashboard_footer');
+     echo "hello";
   }
 }
 
