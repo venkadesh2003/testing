@@ -42,6 +42,7 @@ class Admin extends CI_Controller
      echo "Welcome";
      echo "bye";
      echo "good";
+     echo "hi";
   }
 }
 
