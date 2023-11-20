@@ -39,6 +39,7 @@ class Admin extends CI_Controller
     $this->load->view('admin/index', $d); // Dashboard Page
     $this->load->view('templates/dashboard_footer');
      echo "hello";
+     echo "Welcome";
   }
 }
 
